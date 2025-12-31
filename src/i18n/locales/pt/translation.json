@@ -1,0 +1,17 @@
+{
+  "common": {
+    "welcome": "Bem-vindo",
+    "login": "Entrar",
+    "logout": "Sair",
+    "dashboard": "Painel de Controle",
+    "profile": "Perfil",
+    "settings": "Configurações"
+  },
+  "dashboard": {
+    "total_to_pay": "Total a Pagar",
+    "expenses_evolution": "Evolução de Gastos Comuns",
+    "quick_actions": "Ações Rápidas",
+    "pay": "Pagar",
+    "download_bill": "Baixar Boleto"
+  }
+}

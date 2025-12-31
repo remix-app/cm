@@ -1,0 +1,17 @@
+{
+  "common": {
+    "welcome": "Bienvenido",
+    "login": "Iniciar Sesión",
+    "logout": "Cerrar Sesión",
+    "dashboard": "Panel de Control",
+    "profile": "Perfil",
+    "settings": "Configuración"
+  },
+  "dashboard": {
+    "total_to_pay": "Total a Pagar",
+    "expenses_evolution": "Evolución de Gastos Comunes",
+    "quick_actions": "Acciones Rápidas",
+    "pay": "Pagar",
+    "download_bill": "Descargar Boleta"
+  }
+}
